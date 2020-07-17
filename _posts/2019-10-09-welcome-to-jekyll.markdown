@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First (placeholder) Post!"
+title:  "First (placeholder) Post"
 date:   2019-10-09 19:04:08 -0700
 categories: jekyll update
 ---
