@@ -1,13 +1,23 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: home
 ---
 
-Welcome to treymo's homepage.  I've been slowly reducing my social media
-presence and I thought it might be useful to keep some sort of central identity
-online.
 
-There's not much here beyond a couple links to online accounts I still use.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
 
-You may notice there's a list of blog posts below.  It's just a placeholder if I
-ever decide to start writing anything.
+[jekyll-organization]: https://github.com/jekyll
+
+
+
